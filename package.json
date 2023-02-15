@@ -1,0 +1,16 @@
+{
+  "name": "rice-browser-userstyles",
+  "version": "0.1.0",
+  "description": "User stylesheets for websites I use frequently",
+  "main": "index.js",
+  "repository": "git@github.com:LizAinslie/rice-browser-userstyles.git",
+  "author": "Liz Ainslie <lizainslie16@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "sass": "^1.58.1"
+  },
+  "scripts": {
+    "build": "node build.js"
+  }
+}

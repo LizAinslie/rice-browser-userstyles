@@ -1,0 +1,9 @@
+@import './import';
+
+.nest {
+	color: #000;
+
+	.test {
+		color: #fff;
+	}
+}
